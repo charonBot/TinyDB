@@ -2,16 +2,16 @@
 
 1. Core code
 
-- `tiny.\*`
+- `tiny.*`
 
 2. Test code
 
 - `dbtest.cc`, basic function test
-- `threaded\_test.cc`, use four threads to simulate high concurrency scenorio
+- `threaded_test.cc`, use four threads to simulate high concurrency scenario
 
 3. Utility code
 
-- `generator.cc`, generate (key,value) data file
+- `generator.cc`, generate (key_size key value_size value) data file
 
 ### About Test ###
 
